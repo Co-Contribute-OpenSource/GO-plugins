@@ -4,4 +4,5 @@
 
 This project contains plugins for [go-restful](https://github.com/emicklei/go-restful) projects.
 
-Readme file will be updated soon..!!
+More of the descriptions will be added soon :)
+As this is a Open-Source project this could be added to the HacktoebrFest tag..!!
